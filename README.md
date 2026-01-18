@@ -1,1 +1,3 @@
-https://nearby-co-il.github.io/
+GitHub.io: https://nearby-co-il.github.io/
+
+Website: https://nearby.co.il/
